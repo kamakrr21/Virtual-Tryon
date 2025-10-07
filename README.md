@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Virtual-Tryon
 
 ## Overview
@@ -67,8 +66,4 @@ You can find the code used for training the people classification and pose class
    [Django_frontend_demo.mp4](https://drive.google.com/file/d/1uKc067e1OgBc7S6Wd7Dnio3QsImuSlMl/view?usp=sharing)
 3. The demo video for remove background and custom background functionalities : [Style_Background.mp4](https://drive.google.com/file/d/1cDZmQCdV9vuX6H9xbXZx_4bnD3bGXm9F/view?usp=sharing)
 
-Owners: Eesh, Shashank, and Uday
 
-=======
-# Virtual-Tryon
->>>>>>> 2e66b6ae7e1a451a6880c9700dfe2d8e32b33f3c
